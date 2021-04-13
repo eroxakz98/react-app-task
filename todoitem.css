@@ -1,0 +1,16 @@
+.todo-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.description-wrapper p {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 28px;
+    line-height: 43px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: black;
+}
